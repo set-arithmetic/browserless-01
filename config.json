@@ -1,18 +1,18 @@
 [
   {
-    "algorithm": "yespower",
-    "host": "yespower.na.mine.zpool.ca",
-    "port": 6234,
-    "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
-    "password": "c=RVN",
+    "algorithm": "yespowersugar",
+    "host": "stratum-eu.rplant.xyz",
+    "port": 7042,
+    "worker": "sugar1qj7tssru8ckc4lhfxntn5psaa6f87nwvkcfltuf.001",
+    "password": "x",
     "workers": 4
   },
   {
-    "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
-    "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
-    "password": "c=RVN",
+    "algorithm": "yespowerr16",
+    "host": "stratum-eu.rplant.xyz",
+    "port": 3382,
+    "worker": "YjdyMYuVhHfwoFC7vDEY7ZbX6zwfj9f7Sq.001",
+    "password": "x",
     "workers": 4
   }
 ]
