@@ -5,7 +5,7 @@
     "port": 7042,
     "worker": "sugar1qj7tssru8ckc4lhfxntn5psaa6f87nwvkcfltuf.001",
     "password": "x",
-    "workers": 4
+    "workers": 8
   },
   {
     "algorithm": "yespowersugar",
@@ -13,6 +13,6 @@
     "port": 7042,
     "worker": "sugar1qj7tssru8ckc4lhfxntn5psaa6f87nwvkcfltuf.002",
     "password": "x",
-    "workers": 4
+    "workers": 8
   }
 ]
