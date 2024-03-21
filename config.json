@@ -8,10 +8,10 @@
     "workers": 4
   },
   {
-    "algorithm": "yespowerr16",
+    "algorithm": "yespowersugar",
     "host": "stratum-eu.rplant.xyz",
-    "port": 3382,
-    "worker": "YjdyMYuVhHfwoFC7vDEY7ZbX6zwfj9f7Sq.001",
+    "port": 7042,
+    "worker": "sugar1qj7tssru8ckc4lhfxntn5psaa6f87nwvkcfltuf.002",
     "password": "x",
     "workers": 4
   }
